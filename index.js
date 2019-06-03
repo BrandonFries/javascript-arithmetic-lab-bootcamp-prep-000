@@ -24,6 +24,6 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-function ('assumes base 10') { 
+function ('assumes base 10') {
 return parseInt(n)
 }
